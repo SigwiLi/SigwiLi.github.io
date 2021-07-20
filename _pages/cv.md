@@ -14,6 +14,7 @@ redirect_from:
 <ul>{% for post in site.s41467-018-06509-2.pdf %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
